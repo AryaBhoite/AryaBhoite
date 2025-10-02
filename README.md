@@ -12,7 +12,7 @@ Beyond tech, I’m into **gaming, reading, coding, and beatboxing** 🎮📚💻
 
 ## 🌐 Connect with me  
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/arya-bhoite-a07652266/" target="_blank">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/arya-bhoite-a07652266/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
