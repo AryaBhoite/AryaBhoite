@@ -3,7 +3,7 @@
 *Computer Science Student | Aspiring Full Stack Developer*  
 
 I’m a *Computer Science student* passionate about **web development, problem solving, and computer science concepts**.  
-Currently learning **Full Stack Development** and working with technologies like *HTML, CSS, JavaScript, React, Tailwind CSS, Java, and REST APIs*.  
+Currently learning **Data Analyst** and working with technologies like *HTML, CSS, Python, Excel, Power BI, SQL, Pandas, Seaborn, Matplotlib*  
 I also enjoy exploring **Power BI and Microsoft tools** for data visualization and productivity.  
 
 Beyond tech, I’m into **gaming, reading, coding, and beatboxing** 🎮📚💻🥁  
