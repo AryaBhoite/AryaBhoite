@@ -1,12 +1,14 @@
 # Hi 👋, I'm Arya
 
-*Computer Science Student | Aspiring Full Stack Developer*  
+*Computer Science Student | Aspiring Java Developer*
 
-I’m a *Computer Science student* passionate about **web development, problem solving, and computer science concepts**.  
-Currently learning **Data Analyst** and working with technologies like *HTML, CSS, Python, Excel, Power BI, SQL, Pandas, Seaborn, Matplotlib*  
-I also enjoy exploring **Power BI and Microsoft tools** for data visualization and productivity.  
+I’m a *Computer Science student* passionate about **Java development, problem-solving, and software engineering**.
 
-Beyond tech, I’m into **gaming, reading, coding, and beatboxing** 🎮📚💻🥁  
+Currently learning and building my skills in **Java Full Stack Development**, working with technologies like **Java, JDBC, SQL, JSP, Servlets, Hibernate, Spring, and Spring Boot**.
+
+I also work with **Git and GitHub** for version control, collaboration, and managing projects. 🚀
+
+Beyond tech, I enjoy **gaming, reading, coding, and beatboxing** 🎮📚💻🥁
 
 ---
 
